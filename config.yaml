@@ -1,0 +1,4 @@
+numworkers: 2
+baseip: [ 192, 28, 128, 10 ]
+memory: 2048
+cpus: 1
